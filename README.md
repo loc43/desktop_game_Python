@@ -1,7 +1,7 @@
 #Download the Game from the dinodev Branch
+---
 
 The Game is a modified version of the Google Chrome Dino (T-Rex) game.
----
 
 Core Gameplay:
 ---
