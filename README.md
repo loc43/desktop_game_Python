@@ -19,4 +19,5 @@ Colliding with a cactus or pterodactyl causes the dinosaur to die, unless a powe
 Play multiple rounds and try to beat your personal Best Score.
 
 Power-up — Temporary Invincibility:
+---
 --- "The Hat of Immortality" — grants complete invulnerability for 5 seconds upon collision. This effect has a fixed duration, unaffected by the game's acceleration.
