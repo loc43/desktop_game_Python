@@ -1,12 +1,22 @@
-# Нужно скачать игру из ветки dinodev
+#Download the Game from the dinodev Branch
+The Game is a modified version of the Google Chrome Dino (T-Rex) game.
 ---
-Игра -- динозавр из гугла с модификациями. 
+
+Core Gameplay:
 ---
-Стандартный сюжет: кактусы, которые надо перепрыгивать (разовое нажатие на пробел), птеродактили, часть из которых нужно перепрыгивать, а под частью проползать (длительное зажатие стрелочки вниз), ускорение, счетчик баллов.
+Jump over cacti with a single press of the spacebar.
+
+Avoid pterodactyls: jump over some or duck under others by holding the down arrow key.
+
+The game progressively accelerates.
+
+A running score counter tracks your progress.
+
+Rules:
 ---
-При столкновении с кактусом или птеродактилем динозавр умирает(если на него не действуют определенные бонусы). Можно играть несколько игр подряд, тогда появится возможность соревноваться с собой прошлым с помощью значения Best Score.
----
-Бонус -- временное бессмертие.
----
--- The hat of immortality -- дает на 5 секунд (вне зависимости от скорости движения остальных объектов) полную неуязвимость динозавру при столкновениями с другими объектами.
----
+Colliding with a cactus or pterodactyl causes the dinosaur to die, unless a power-up is active.
+
+Play multiple rounds and try to beat your personal Best Score.
+
+Power-up — Temporary Invincibility:
+--- "The Hat of Immortality" — grants complete invulnerability for 5 seconds upon collision. This effect has a fixed duration, unaffected by the game's acceleration.
